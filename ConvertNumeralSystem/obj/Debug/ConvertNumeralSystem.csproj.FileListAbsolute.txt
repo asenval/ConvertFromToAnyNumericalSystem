@@ -1,0 +1,10 @@
+D:\Telerik kurs\C# PartII\Homeworks\HW4-NumericalSystem\ConvertNumeralSystem\bin\Debug\ConvertNumeralSystem.dll
+D:\Telerik kurs\C# PartII\Homeworks\HW4-NumericalSystem\ConvertNumeralSystem\bin\Debug\ConvertNumeralSystem.pdb
+D:\Telerik kurs\C# PartII\Homeworks\HW4-NumericalSystem\ConvertNumeralSystem\obj\Debug\ConvertNumeralSystem.csprojResolveAssemblyReference.cache
+D:\Telerik kurs\C# PartII\Homeworks\HW4-NumericalSystem\ConvertNumeralSystem\obj\Debug\ConvertNumeralSystem.dll
+D:\Telerik kurs\C# PartII\Homeworks\HW4-NumericalSystem\ConvertNumeralSystem\obj\Debug\ConvertNumeralSystem.pdb
+D:\Telerik curs\C# PartII\Homeworks\HW4-NumericalSystem\ConvertNumeralSystem\obj\Debug\ConvertNumeralSystem.csprojResolveAssemblyReference.cache
+D:\Telerik curs\C# PartII\Homeworks\HW4-NumericalSystem\ConvertNumeralSystem\obj\Debug\ConvertNumeralSystem.dll
+D:\Telerik curs\C# PartII\Homeworks\HW4-NumericalSystem\ConvertNumeralSystem\bin\Debug\ConvertNumeralSystem.dll
+D:\Telerik curs\C# PartII\Homeworks\HW4-NumericalSystem\ConvertNumeralSystem\bin\Debug\ConvertNumeralSystem.pdb
+D:\Telerik curs\C# PartII\Homeworks\HW4-NumericalSystem\ConvertNumeralSystem\obj\Debug\ConvertNumeralSystem.pdb

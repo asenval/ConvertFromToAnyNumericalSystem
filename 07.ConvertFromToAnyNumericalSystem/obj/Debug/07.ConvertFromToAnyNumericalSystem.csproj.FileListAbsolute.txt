@@ -1,0 +1,16 @@
+D:\Telerik kurs\C# PartII\Homeworks\HW4-NumericalSystem\07.ConvertFromToAnyNumericalSystem\bin\Debug\07.ConvertFromToAnyNumericalSystem.exe.config
+D:\Telerik kurs\C# PartII\Homeworks\HW4-NumericalSystem\07.ConvertFromToAnyNumericalSystem\obj\Debug\07.ConvertFromToAnyNumericalSystem.csprojResolveAssemblyReference.cache
+D:\Telerik kurs\C# PartII\Homeworks\HW4-NumericalSystem\07.ConvertFromToAnyNumericalSystem\bin\Debug\07.ConvertFromToAnyNumericalSystem.exe
+D:\Telerik kurs\C# PartII\Homeworks\HW4-NumericalSystem\07.ConvertFromToAnyNumericalSystem\bin\Debug\07.ConvertFromToAnyNumericalSystem.pdb
+D:\Telerik kurs\C# PartII\Homeworks\HW4-NumericalSystem\07.ConvertFromToAnyNumericalSystem\bin\Debug\ConvertNumeralSystem.dll
+D:\Telerik kurs\C# PartII\Homeworks\HW4-NumericalSystem\07.ConvertFromToAnyNumericalSystem\bin\Debug\ConvertNumeralSystem.pdb
+D:\Telerik kurs\C# PartII\Homeworks\HW4-NumericalSystem\07.ConvertFromToAnyNumericalSystem\obj\Debug\07.ConvertFromToAnyNumericalSystem.exe
+D:\Telerik kurs\C# PartII\Homeworks\HW4-NumericalSystem\07.ConvertFromToAnyNumericalSystem\obj\Debug\07.ConvertFromToAnyNumericalSystem.pdb
+D:\Telerik curs\C# PartII\Homeworks\HW4-NumericalSystem\07.ConvertFromToAnyNumericalSystem\bin\Debug\07.ConvertFromToAnyNumericalSystem.exe.config
+D:\Telerik curs\C# PartII\Homeworks\HW4-NumericalSystem\07.ConvertFromToAnyNumericalSystem\obj\Debug\07.ConvertFromToAnyNumericalSystem.exe
+D:\Telerik curs\C# PartII\Homeworks\HW4-NumericalSystem\07.ConvertFromToAnyNumericalSystem\obj\Debug\07.ConvertFromToAnyNumericalSystem.pdb
+D:\Telerik curs\C# PartII\Homeworks\HW4-NumericalSystem\07.ConvertFromToAnyNumericalSystem\bin\Debug\07.ConvertFromToAnyNumericalSystem.exe
+D:\Telerik curs\C# PartII\Homeworks\HW4-NumericalSystem\07.ConvertFromToAnyNumericalSystem\bin\Debug\07.ConvertFromToAnyNumericalSystem.pdb
+D:\Telerik curs\C# PartII\Homeworks\HW4-NumericalSystem\07.ConvertFromToAnyNumericalSystem\bin\Debug\ConvertNumeralSystem.dll
+D:\Telerik curs\C# PartII\Homeworks\HW4-NumericalSystem\07.ConvertFromToAnyNumericalSystem\bin\Debug\ConvertNumeralSystem.pdb
+D:\Telerik curs\C# PartII\Homeworks\HW4-NumericalSystem\07.ConvertFromToAnyNumericalSystem\obj\Debug\07.ConvertFromToAnyNumericalSystem.csprojResolveAssemblyReference.cache
